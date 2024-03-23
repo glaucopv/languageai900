@@ -79,7 +79,8 @@ Selecione Executar . Revise o resultado e o sentimento e o nível de confiança.
 Selecione Limpar caixa de texto novamente e copie e cole a seguinte revisão:
 
 Selecione Executar e analise o sentimento juntamente com o nível de confiança. Dê uma olhada no texto e compare-o com a análise de sentimento que o serviço retornou.
-C:\Github\languageai900\inputs\Result_Image1.png
+![alt text](outputs/Result_Image1.png)
+![alt text](outputs/Result_image2.png)
 
 
 Neste exercício você usou o Language Studio para criar um novo recurso de idioma ou usar um recurso de idioma existente. Você habilitou o recurso em Configurações antes de experimentar o serviço de mineração de sentimento e opinião. Em seguida, você testou o serviço com três trechos de texto.
