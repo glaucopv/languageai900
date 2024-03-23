@@ -63,6 +63,7 @@ Marque a caixa para confirmar que a demonstração incorrerá em uso e poderá i
 
 Revise a saída. Observe que o documento é analisado quanto ao sentimento, assim como cada frase . Selecione Frase 1 para mostrar a análise de sentimento dessa frase.
 
+
 Observe que há um sentimento geral seguido por pontuações próximas a três categorias: pontuação positiva , pontuação neutra e pontuação negativa . Em cada uma das categorias é atribuída uma pontuação entre 0 e 1. Essas pontuações de confiança indicam a probabilidade do texto fornecido ser um sentimento específico.
 
 Selecione a frase 1 novamente para fechar.
